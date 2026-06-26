@@ -5,8 +5,10 @@ F&B | Restaurant | Sushi Restaurant in Finland
 
 ![Image](https://github.com/user-attachments/assets/640515ad-09d2-440f-9100-5f24476c346f)
 
-Author: Susan Ho 
-Date: 2026-06-26 
+Author: Susan Ho
+
+Date: 2026-06-26
+
 Tools Used: Excel 
 
 ---
@@ -17,6 +19,7 @@ The Sushi Inventory Management System is an Excel-based application designed to 
 The system tracks **34 core ingredients** across 3 categories (Dry Goods, Frozen, and Fresh Produce) through a dataset of over 6,000 daily transaction records, enabling restaurant owners to make data-driven purchasing decisions and optimize cash flow.
 
 **Target Users:** Kitchen staff, Head chefs, Store managers, Sushi restaurant owners
+
 **Data Scale:** 6,120 records | 34 products | 3 categories | 3 suppliers | 6 months (H1 2025)  
 ---
 
