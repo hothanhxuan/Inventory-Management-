@@ -20,7 +20,8 @@ The system tracks **34 core ingredients** across 3 categories (Dry Goods, Frozen
 
 **Target Users:** Kitchen staff, Head chefs, Store managers, Sushi restaurant owners
 
-**Data Scale:** 6,120 records | 34 products | 3 categories | 3 suppliers | 6 months (H1 2025)  
+**Data Scale:** 6,120 records | 34 products | 3 categories | 3 suppliers | 6 months (H1 2025)
+
 ---
 
 ## 🚀 SHEET STRUCTURE & HOW TO USE
